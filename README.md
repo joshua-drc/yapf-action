@@ -1,3 +1,6 @@
+# NOTE: 
+This is a forked repo from AlexanderMelde/yapf-action. A PR has been put up (https://github.com/AlexanderMelde/yapf-action/pull/6) to fix the TOML dependcy issue. This repo will be removed when that PR has been merged.
+
 # YAPF Python Code Formatting Check
 
 [![GitHub issues](https://img.shields.io/github/issues/AlexanderMelde/yapf-action?style=flat-square)](https://github.com/AlexanderMelde/yapf-action/issues) [![GitHub license](https://img.shields.io/github/license/AlexanderMelde/yapf-action?style=flat-square)](https://github.com/AlexanderMelde/yapf-action/blob/master/LICENSE) [![Winner Of The GitHub Actions Hackathon](https://img.shields.io/badge/GitHub%20Actions%20Hackathon-Winner!-blue?style=flat-square&logo=github-actions&logoColor=9cf)](https://docs.google.com/spreadsheets/d/1YL6mjJXGt3-75GejQCubsOvWwtYcGaqbJA7msnsh7Tg/edit?usp=sharing) [![GitHub stars](https://img.shields.io/github/stars/AlexanderMelde/yapf-action?style=flat-square)](https://github.com/AlexanderMelde/yapf-action/stargazers)
